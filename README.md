@@ -15,7 +15,7 @@ input6: WebDriverWait time (in seconds) for explicit waits (wait_val)
 After providing these inputs, the script will navigate through the Morningstar website, login, choose market and rating, extract information for each stock, and save the results to a CSV file.
 
 
-Here's a list of the main libraries and modules that were used:
+Here's a list of the main libraries and modules that were used, you may need to install some of them:
 
 bs4 (Beautiful Soup): A library for web scraping purposes.
 time: A standard Python library for handling time-related operations.
