@@ -1,7 +1,7 @@
 # Morningstar-scrapping
 This program search the Morningstar website and finds stocks that have more than 15% return, based on their fair value estimate
 
-this is an extensive script for web scraping financial information from the Morningstar website using Selenium and BeautifulSoup. Before running this code, please ensure you have the required dependencies installed, such as a suitable web driver (e.g., ChromeDriver).
+The code you is an extensive script for web scraping financial information from the Morningstar website using Selenium and BeautifulSoup. Before running this code, please ensure you have the required dependencies installed, such as Selenium, BeautifulSoup, and a suitable web driver ( ChromeDriver).
 
 To execute the code, you need to provide the required inputs when prompted. Here's a summary of the inputs:
 
