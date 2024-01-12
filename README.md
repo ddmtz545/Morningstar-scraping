@@ -24,12 +24,20 @@ After providing these inputs, the script will navigate through the Morningstar w
 Here's a list of the main libraries and modules that were used, you may need to install some of them:
 
 bs4 (Beautiful Soup): A library for web scraping purposes.
+
 time: A standard Python library for handling time-related operations.
+
 requests: A library for making HTTP requests.
+
 selenium: A web testing library that is often used for web scraping, particularly when dealing with dynamic content.
+
 pandas: A powerful data manipulation library for working with structured data.
+
 csv: A built-in Python module for working with CSV files.
+
 datetime: A module for working with dates and times.
+
 tkinter: A standard Python library for creating graphical user interfaces (GUIs).
+
 
 Note: Running web scraping scripts may violate the terms of service of the website. Ensure you comply with the website's terms and conditions, and consider checking their robots.txt file to see if web scraping is allowed.
